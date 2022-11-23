@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center"><a href="https://github.com/SULFURA/NoTokenGrab/releases/latest" target="_blank">NoTokenGrab</a> is a free and open source Windows script that aims to no longer make you "Token Grab" by any application on your PC </h4>
+<h4 align="center"><a href="https://github.com/SULFURA/NoTokenGrab/releases/latest" target="_blank">NoTokenGrab</a> is a free Windows script that aims to no longer make you "Token Grab" by any application on your PC </h4>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
